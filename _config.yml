@@ -1,7 +1,7 @@
 title: JohnPaul K.
 logo: /assets/img/logo.png
-description: JPK's theme for personal site.
+description: JPK's theme for a personal site.
 show_downloads: false
-github.is_project_page: false
+site.github.is_project_page: false
 google_analytics:
 theme: jekyll-theme-minimal
