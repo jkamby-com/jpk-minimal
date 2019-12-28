@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Home | About | Projects | Sites | Contact
+Home | About(./about.md) | Projects | Sites | Contact
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
