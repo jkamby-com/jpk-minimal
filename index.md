@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+Home | About | Projects | Sites | Contact
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
