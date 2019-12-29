@@ -5,7 +5,7 @@ Home | [About](./about.md) | [Projects](./projects.md) |
 <details><summary>Sites</summary><br>
   - [.io](https://jkamby.io) 
   - [.mba](https://jkamby.mba)
-  - [.me](#) </details> | [Contact](./contact.md)
+  - [.me](https://example.com) </details> | [Contact](./contact.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
