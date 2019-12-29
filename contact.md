@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](./) | [About](./about.md) | [Projects](./projects.md) | [Sites](./projects.md) | Contact
+[Home](./) | [About](./about.md) | [Projects](./projects.md) | [Sites](./sites.md) | Contact
 
 ## Contact
 
