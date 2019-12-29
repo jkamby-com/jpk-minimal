@@ -1,12 +1,15 @@
 ---
 layout: default
 ---
-Home | [About](./about.md) | [Projects](./projects.md) | 
-<details><summary>Sites</summary><br>
+<p>Home | 
+  <details>[About](./about.md)</details> | 
+  <details><summary>[Projects](./projects.md)</summary></details> | 
+  <details><summary>Sites</summary><br>
   - [.io](https://jkamby.io) 
   - [.mba](https://jkamby.mba)
-  - [.me](https://example.com) </details> | [Contact](./contact.md)
-
+  - [.me](https://example.com) </details> |
+  [Contact](./contact.md)
+</p>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
