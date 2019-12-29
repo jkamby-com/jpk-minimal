@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-Home | [About](./about.md) | [Projects](./projects.md) | <details><summary>Sites</summary> .io .mba .me </details> | [Contact](./contact.md)
+Home | [About](./about.md) | [Projects](./projects.md) | 
+<details><summary>Sites</summary><br>
+  - [.io](https://jkamby.io) 
+  - [.mba](https://jkamby.mba)
+  - [.me](#) </details> | [Contact](./contact.md)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
