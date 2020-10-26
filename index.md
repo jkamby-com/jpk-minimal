@@ -10,3 +10,5 @@ Watch this space. Or this page.
 Adding Jira integration.
 
 Now testing the auto trigger once a commit is made.
+
+Finally figuring this out.
